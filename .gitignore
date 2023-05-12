@@ -1,0 +1,4 @@
+# ignore this folder
+ignoreFolder/
+# ignore all pdf files
+*.pdf 
